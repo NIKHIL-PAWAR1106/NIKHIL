@@ -1,0 +1,6 @@
+{
+  "name": "TECTONICA // Journal of Architecture & Urban Space",
+  "description": "An independent curatorial publication examining modern architecture, material culture, sustainable urbanism, and spatial theory across 10 in-depth essays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
